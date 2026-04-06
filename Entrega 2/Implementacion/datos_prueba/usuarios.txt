@@ -1,0 +1,2 @@
+CLIENTE;101;Daniel;daniel@mail.com;daniel;1234;250
+ADMIN;900;Admin;admin@mail.com;admin;admin123
