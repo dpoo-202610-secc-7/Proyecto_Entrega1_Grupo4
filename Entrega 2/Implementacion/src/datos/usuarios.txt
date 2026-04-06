@@ -1,0 +1,6 @@
+CLIENTE;1001;Sofia;sofia@mail.com;sofia;1234;0
+CLIENTE;1002;Mateo;mateo@mail.com;mateo;1234;0
+MESERO;2001;Valentina;vale@mail.com;vale;1234;M001
+MESERO;2002;Andres;andres@mail.com;andres;1234;M002
+COCINERO;3001;Carlos;carlos@mail.com;carlos;1234;C001
+ADMIN;9001;Admin;admin@mail.com;admin;admin123

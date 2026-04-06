@@ -1,0 +1,5 @@
+BUENO;true;Uno
+NUEVO;true;Uno
+BUENO;true;Ajedrez
+NUEVO;true;Twister
+BUENO;true;Catan

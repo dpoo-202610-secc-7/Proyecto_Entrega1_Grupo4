@@ -1,0 +1,3 @@
+Uno;25000.0;true;15
+Catan;180000.0;true;12
+Twister;95000.0;true;4

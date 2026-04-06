@@ -1,0 +1,4 @@
+Uno;1971;Mattel;2;10;3;false;CARTAS
+Ajedrez;1475;Universal;2;2;6;true;TABLERO
+Twister;1966;Hasbro;2;6;5;false;ACCION
+Catan;1995;Kosmos;3;4;10;true;TABLERO

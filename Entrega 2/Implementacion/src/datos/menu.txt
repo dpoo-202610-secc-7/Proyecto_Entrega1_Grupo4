@@ -1,0 +1,5 @@
+BEBIDA;Cafe americano;5000.0;true;false;true
+BEBIDA;Limonada;6000.0;true;false;false
+BEBIDA;Cerveza;12000.0;true;true;false
+PASTELERIA;Brownie;7000.0;true;GLUTEN,HUEVO
+PASTELERIA;Croissant;8000.0;true;GLUTEN
